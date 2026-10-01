@@ -1,0 +1,6 @@
+{
+  "name": "Nông Nghiệp Việt - Giải Pháp Cho Nhà Nông",
+  "description": "Trang thông tin & đăng ký nhận tư vấn giải pháp sinh học, tiết kiệm chi phí mùa vụ và đồng hành cùng nhà nông Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
